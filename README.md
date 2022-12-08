@@ -6,7 +6,7 @@ email_id= "Email address"
 name= "Name"
 remarks= "Remarks"
 
-sender_email= "riishav@ineuron.ai"
+sender_email= "vishal@ineuron.ai"
 passkey= ""
 
 folder_path= "artifacts"
